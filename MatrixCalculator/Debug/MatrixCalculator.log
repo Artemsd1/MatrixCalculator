@@ -1,0 +1,6 @@
+﻿  MatrixCalculator.cpp
+C:\Users\Пользователь\source\repos\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(176,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(210,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(233,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(263,23): warning C4018: <: несоответствие типов со знаком и без знака
+  MatrixCalculator.vcxproj -> C:\Users\Пользователь\source\repos\MatrixCalculator\Debug\MatrixCalculator.exe
