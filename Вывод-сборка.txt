@@ -1,0 +1,37 @@
+1>------ Сборка начата: проект: MatrixCalculator, Конфигурация: Debug Win32 ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (kinpo_kurs.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+1>kinpo_kurs.cpp
+1>C:\Users\Пользователь\source\repos\kinpo_kurs\kinpo_kurs\kinpo_kurs.cpp(284,27): warning C4018: <: несоответствие типов со знаком и без знака
+1>C:\Users\Пользователь\source\repos\kinpo_kurs\kinpo_kurs\kinpo_kurs.cpp(246): warning C4715: getMatrixFromFile: значение возвращается не при всех путях выполнения
+1>kinpo_kurs.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\MatrixCalculator.exe
+1>Сборка проекта "kinpo_kurs.vcxproj" завершена.
+2>------ Сборка начата: проект: getMatrixFromFileTest, Конфигурация: Debug Win32 ------
+3>------ Сборка начата: проект: getNumberOfColumnsTest, Конфигурация: Debug Win32 ------
+4>------ Сборка начата: проект: getNumberOfRowsTest, Конфигурация: Debug Win32 ------
+5>------ Сборка начата: проект: getArrFromRowTest, Конфигурация: Debug Win32 ------
+6>------ Сборка начата: проект: getNumberFromRowTest, Конфигурация: Debug Win32 ------
+7>------ Сборка начата: проект: getSizeLimitOfMatrixTest, Конфигурация: Debug Win32 ------
+8>------ Сборка начата: проект: setZeroMatrixTest, Конфигурация: Debug Win32 ------
+9>------ Сборка начата: проект: isSizeCorrectTest, Конфигурация: Debug Win32 ------
+10>------ Сборка начата: проект: getMaxRowSizeTest, Конфигурация: Debug Win32 ------
+11>------ Сборка начата: проект: matrixSubTest, Конфигурация: Debug Win32 ------
+12>------ Сборка начата: проект: matrixAddTest, Конфигурация: Debug Win32 ------
+13>------ Сборка начата: проект: matrixMulTest, Конфигурация: Debug Win32 ------
+2>getMatrixFromFileTest.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getMatrixFromFileTest.dll
+3>getNumberOfColumnsTest.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getNumberOfColumnsTest.dll
+4>getNumberOfRowsTest.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getNumberOfRowsTest.dll
+11>matrixSubTest.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\matrixSubTest.dll
+5>   Создается библиотека C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getArrFromRowTest.lib и объект C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getArrFromRowTest.exp
+6>   Создается библиотека C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getNumberFromRowTest.lib и объект C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getNumberFromRowTest.exp
+12>matrixAddTest.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\matrixAddTest.dll
+5>getArrFromRowTest.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getArrFromRowTest.dll
+6>getNumberFromRowTest.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getNumberFromRowTest.dll
+8>   Создается библиотека C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\setZeroMatrixTest.lib и объект C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\setZeroMatrixTest.exp
+7>getSizeLimitOfMatrixTest.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getSizeLimitOfMatrixTest.dll
+9>   Создается библиотека C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\isSizeCorrectTest.lib и объект C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\isSizeCorrectTest.exp
+10>   Создается библиотека C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getMaxRowSizeTest.lib и объект C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getMaxRowSizeTest.exp
+8>setZeroMatrixTest.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\setZeroMatrixTest.dll
+9>isSizeCorrectTest.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\isSizeCorrectTest.dll
+10>getMaxRowSizeTest.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\getMaxRowSizeTest.dll
+13>matrixMulTest.vcxproj -> C:\Users\Пользователь\source\repos\kinpo_kurs\Debug\matrixMulTest.dll
+========== Сборка: успешно: 13, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
