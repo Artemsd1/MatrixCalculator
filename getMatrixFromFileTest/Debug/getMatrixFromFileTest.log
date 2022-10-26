@@ -1,0 +1,4 @@
+﻿  getMatrixFromFileTest.cpp
+C:\Users\Пользователь\source\repos\MatrixCalculator\getMatrixFromFileTest\getMatrixFromFileTest.cpp(110,8): warning C4101: result: неиспользованная локальная переменная
+     Создается библиотека C:\Users\Пользователь\source\repos\MatrixCalculator\Debug\getMatrixFromFileTest.lib и объект C:\Users\Пользователь\source\repos\MatrixCalculator\Debug\getMatrixFromFileTest.exp
+  getMatrixFromFileTest.vcxproj -> C:\Users\Пользователь\source\repos\MatrixCalculator\Debug\getMatrixFromFileTest.dll
