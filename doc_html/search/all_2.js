@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['getmatrixfromfile_0',['getMatrixFromFile',['../_header_8h.html#ae9d8f0f4b8e6b39357af2e026024f902',1,'getMatrixFromFile(Matrix *matr, ifstream &amp;file, string path):&#160;MatrixCalculator.cpp'],['../_matrix_calculator_8cpp.html#ae9d8f0f4b8e6b39357af2e026024f902',1,'getMatrixFromFile(Matrix *matr, ifstream &amp;file, string path):&#160;MatrixCalculator.cpp']]],
+  ['getmaxrowsize_1',['getMaxRowSize',['../_header_8h.html#ab08d3b0cf83c1fa918004bbaaf5da300',1,'getMaxRowSize(vector&lt; int &gt; arr):&#160;MatrixCalculator.cpp'],['../_matrix_calculator_8cpp.html#ab08d3b0cf83c1fa918004bbaaf5da300',1,'getMaxRowSize(vector&lt; int &gt; arr):&#160;MatrixCalculator.cpp']]],
+  ['getnumberofcolumns_2',['getNumberOfColumns',['../_header_8h.html#a94badb6e371802df6f44ff9118dbeab0',1,'getNumberOfColumns(vector&lt; string &gt; strArr):&#160;MatrixCalculator.cpp'],['../_matrix_calculator_8cpp.html#a94badb6e371802df6f44ff9118dbeab0',1,'getNumberOfColumns(vector&lt; string &gt; strArr):&#160;MatrixCalculator.cpp']]],
+  ['getnumbersfromrow_3',['getNumbersFromRow',['../_header_8h.html#a3b6d9945d3cbb333c022648d9347c6d4',1,'getNumbersFromRow(Matrix *matr, vector&lt; string &gt; strArr):&#160;MatrixCalculator.cpp'],['../_matrix_calculator_8cpp.html#a3b6d9945d3cbb333c022648d9347c6d4',1,'getNumbersFromRow(Matrix *matr, vector&lt; string &gt; strArr):&#160;MatrixCalculator.cpp']]],
+  ['getvalue_4',['getValue',['../_header_8h.html#a8ac3b6b9bf2b19454cb58d32430c2dbe',1,'getValue(char *value):&#160;MatrixCalculator.cpp'],['../_matrix_calculator_8cpp.html#a8ac3b6b9bf2b19454cb58d32430c2dbe',1,'getValue(char *value):&#160;MatrixCalculator.cpp']]]
+];
